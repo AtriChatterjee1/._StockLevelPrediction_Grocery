@@ -21,3 +21,5 @@ From this analysis it was summarised :
 - More data was required to predict correlations accurately, this was just the data of one store for one week
 - The current business problem is too broad, we should narrow down the focus in order to deliver a valuable end product
 - More features were required
+
+~Work Under Progress
